@@ -1,0 +1,5 @@
+https://ru.stackoverflow.com/questions/31384/%D0%9F%D0%BE%D0%B4%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B2-url-get-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2
+
+https://dzen.ru/pogoda/uray?lat=60.128955&lon=64.803222
+
+https://www.google.com/search?q=google&sxsrf=AJOqlzUEGYyzu5nZbXFg6zzfaZYMAWO2Ig:1674911395572&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiLp42Wq-r8AhWllYsKHTZECicQ_AUoA3oECAEQBQ&biw=3440&bih=1329#imgrc=Vapg4i03FJgN5M
